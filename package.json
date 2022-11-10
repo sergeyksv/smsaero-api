@@ -21,7 +21,7 @@
   "homepage": "https://github.com/alcovegan/smsaero-api#readme",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.2",
     "query-string": "^6.0.0"
   },
   "devDependencies": {}
